@@ -1,0 +1,17 @@
+  
+  .container {
+    /* The image used */
+    background-image: url("/public/bg.png");
+  
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: -68px;
+    margin-top: -35px;
+    margin-right: -70px;
+    margin-bottom: -80px;
+  }
