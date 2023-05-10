@@ -11,7 +11,7 @@ Web application that makes it easy to discover recipes and ideas for everyday ho
 ## Framework/Library & API ##
 1. [React.js](https://react.dev/)
 2. [Spoonacular](https://spoonacular.com/food-api)
-3. Framer-motion
+3. [Framer-motion](https://www.npmjs.com/package/framer-motion)
 
 -------------------------------
 ![_Portofolio (1)](https://user-images.githubusercontent.com/77274711/227406515-7b55044f-7431-40fe-a3b3-99e4b89216f1.png)
